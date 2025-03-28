@@ -1,2 +1,2 @@
 ## Hi! 👋
-[silahlar.lol](https://silahlar.lol) official repository.
+This is for official repository of [silahlar.lol](https://silahlar.lol) 
